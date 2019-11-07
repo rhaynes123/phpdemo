@@ -1,5 +1,9 @@
 <?php
-
+/*
+Author: Richard Haynes
+Created: 2019-11-05
+Description: This code is merely to be an example of isset() using an associative array for learning purposes
+*/
 	function GetAges()
 	{
 		$age = array("Rich"=>28
